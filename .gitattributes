@@ -14,5 +14,4 @@
 File[[:space:]]2016/Neighborhood/2016.Arests.dta filter=lfs diff=lfs merge=lfs -text
 Allgemein/AccesstoJobsByTransitByAuto_V3_Jan2021.numbers filter=lfs diff=lfs merge=lfs -text
 2019/Health/2019_Hospital.csv filter=lfs diff=lfs merge=lfs -text
-*.shp filter=lfs diff=lfs merge=lfs -text
-Additional[[:space:]]Python[[:space:]]Files/Geo[[:space:]]Data/tl_rd22_us_county.shp filter=lfs diff=lfs merge=lfs -text
+
